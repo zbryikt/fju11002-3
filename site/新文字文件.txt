@@ -1,0 +1,11 @@
+<meta charset="utf-8">
+<h1> hello </h1>
+<p>
+this is my first website!
+</p>
+<style>
+ body { background: #000; color: #fff }
+</style>
+<script>
+ document.body.appendChild(document.createTextNode("test"));
+</script>
